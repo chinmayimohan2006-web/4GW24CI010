@@ -1,4 +1,0 @@
-print("Hello from your Repo")
-print("Enter your details")
-print("This is your stash Demo")
-print("Experiment 6 going on...")
